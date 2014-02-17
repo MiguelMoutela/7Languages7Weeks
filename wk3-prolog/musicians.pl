@@ -1,0 +1,19 @@
+plays(guitarist1, guitar).
+plays(guitarist2, guitar).
+plays(guitarist3, guitar).
+plays(guitarist4, guitar).
+plays(drummer1, drums).
+plays(drummer2, drums).
+plays(drummer3, drums).
+plays(drummer4, drums).
+plays(drummer5, drums).
+
+soundslike(guitarist1, rock).
+soundslike(guitarist2, flamenco).
+soundslike(guitarist3, acoustic).
+soundslike(guitarist4, singerSongWriter).
+soundslike(drummer1, rock).
+soundslike(drummer2, rock).
+soundslike(drummer3, rock).
+soundslike(drummer4, rock).
+soundslike(drummer5, rock).
